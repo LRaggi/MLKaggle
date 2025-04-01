@@ -1,5 +1,5 @@
 # Proposta de análise usando Mobile Dataset (2025)
-O Dataset escolhido pega todos os telefone celulares de mais de 700 empresas como Apple e Samsung, e separa em 10 categorias, sendo estas:
+O Dataset escolhido (Mobile Dataset (2025) do Kaggle) pega todos os telefone celulares de mais de 700 empresas como Apple e Samsung, e separa em 10 categorias, sendo estas:
 - Nome da Empresa
 - Nome do Modelo
 - Peso do Aparelho
